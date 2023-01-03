@@ -74,4 +74,6 @@ As part of this project, the following tasks were created in python to automate 
 - refresh_datamart_property_type_task: Creates a data mart table that contains KPIs for each property type
 - refresh_datamart_host_neighbourhood_task: Creates a data mart table that contains KPIs for each host neighbourhood
 
-As can be seen from the description of the tasks, some of the tasks were dependent on other tasks. So, a Directed Acyclic Graph (DAG) was constructed to ensure that the tasks were executed in the correct order. The figure on the following page shows the DAG.
+As can be seen from the description of the tasks, some of the tasks were dependent on other tasks. So, a Directed Acyclic Graph (DAG) was constructed to ensure that the tasks were executed in the correct order. The following figure shows the DAG.
+
+![](https://github.com/naeer/elt_data_pipeline_airflow/blob/main/images/dag_airflow.png?raw=true)
