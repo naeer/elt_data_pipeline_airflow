@@ -1,4 +1,4 @@
-# ELT Data Pipeline with Airflow using Airbnb and Census data
+# ELT Data Pipeline utilising Snowflake and Airflow
 
 ## Overview
 Airbnb has revolutionized the accommodation industry by providing an online marketplace where users can rent out their properties and other users can rent these properties for a fixed period of time. It was founded in 2008 by Joe Gebbia, Brian Chesky, and Nathan Blecharczyk and ever since its inception it has been a major disruption to the traditional hospitality industry. As of 2019, Airbnb has more than 150 million guest users and 6 million+ listings worldwide, meaning that it generates a huge amount of data including details about the rentals, their prices and the density of these rentals across regions. Sydney is going to be the focus of this project as it is one of the most popular cities in the world for tourism.
